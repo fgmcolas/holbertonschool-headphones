@@ -4,7 +4,7 @@
 
 This project is about implementing a fully functional web page based on a designer's file. The goal is to create a web page that closely mirrors the provided design using only HTML and CSS. The challenge is to accomplish this without relying on external CSS frameworks or JavaScript, ensuring that the final product is both accessible and responsive.
 
-![README overview](images/RDME.png)
+![README overview](RDME.png)
 
 ## Table of Contents
 
